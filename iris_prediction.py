@@ -1,4 +1,4 @@
-mport streamlit as st
+import streamlit as st
 import joblib
 
 # 載入模型與標準化轉換模型
